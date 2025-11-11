@@ -1,2 +1,0 @@
-# fafikmc.pl
-fafikmc.pl
